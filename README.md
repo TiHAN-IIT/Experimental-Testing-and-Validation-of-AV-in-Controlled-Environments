@@ -1,129 +1,42 @@
 # Experimental-Testing-and-Validation-of-AV-in-Controlled-Environments
 
-#### 1.Ego vehicle changing Lane with the global vehicle behind
-
-
-
-#### 2.Ego vehicle driving straight
-
-
-
-
-#### 3.Ego vehicle approaching a vehicle
-
-
-
-#### 4.Ego vehicle approaching an oncoming vehicle
-
-
-
-
-
-#### 5.Global vehicle swerving towards ego vehicle
-
-
-
-#### 6.Pedestrians walking along the road
-
-
-
-#### 7.Ego Vehicle to Pedestrian crossing the road
-
-
-#### 8.Ego Vehicle to Pedestrian in the path
-
-
-
-#### 9.Ego vehicle with bicyclist crossing
-
-
-
-#### 10.Ego vehicle with Bicyclist in the same lane
-
-
-
-#### 11.Ego vehicle with the motorbike in the same lane
-
-
-#### 12.Large animal on the road
-
-
-
-#### 13.Pothole on the path
-
-
-
-#### 14.Motorbike crossing from behind an obstruction
-
-
-
-#### 15.Global vehicle Cut in front of the ego vehicle
-
-
-#### 16.Global vehicle backing up into ego vehicle
-
-
-#### 17.Pedestrian crossing from behind an obstruction
-
-
-
-#### 18.Maneuvering on the bend
-
-
-#### 19.Ego vehicle turning
-
-
-#### 20.Ego vehicle driving on the empty roundabout
-
-
-#### 21.Ego vehicle turns right with the oncoming global vehicle at the junction
-
-
-
-#### 22.Ego vehicle approaching turning lead vehicle
-
-
-#### 23.Ego vehicle undertaking the left turn at the non-signalized junction
-
-
-
-#### 24.Ego and global vehicle crossing while turning right at the non-signalized junction
-
-
-
-#### 25.Global vehicle swerving towards ego vehicle
-
-
-#### 26.Global vehicle running the red traffic light
-
-
-#### 27.The oncoming Global vehicle turns right at the junction
-
-
-#### 28.Global vehicle straight with Ego from the left at the non- signalized junction
-
-
-#### 29.Global vehicle turns right and ends up in the same direction as ego vehicle at the non-signalized junction
-
-
-
-#### 30.Roundabout with a bicyclist
-
-
-#### 31.Roundabout with a motorbike
-
-
-#### 32.Ego vehicle to pedestrian Turning
-
-
-
-#### 33.Pedestrian crossing at zebra crossing with no traffic lights
-
-
-
-#### 34.A pedestrian running at the green light
-
-
+### 1. Non-Signalized Scenarios
+- Ego vehicle undertaking a left turn at a non-signalized junction.
+- Ego and global vehicle crossing while turning right at a non-signalized junction.
+- Global vehicle straight with Ego from the left at a non-signalized junction.
+- Global vehicle turns right and ends up in the same direction as the ego vehicle at a non-signalized junction.
+
+### 2. Pedestrian Interactions
+- Pedestrian crossing at zebra crossing with no traffic lights.
+- Pedestrian running at the green light.
+- Pedestrian crossing from behind an obstruction.
+- Ego vehicle to pedestrian crossing the road.
+- Ego vehicle to pedestrian in the path.
+- Ego vehicle to pedestrian turning.
+- Pedestrians walking along the road.
+
+### 3. Vulnerable Road Users (Other than Pedestrians)
+- Ego vehicle with bicyclist crossing.
+- Ego vehicle with bicyclist in the same lane.
+- Motorbike crossing from behind an obstruction.
+
+### 4. Complex Intersections and Maneuvers
+- Ego vehicle turning.
+- Ego vehicle approaching a turning lead vehicle.
+- Entering a roundabout with another vehicle.
+- Ego vehicle driving on an empty roundabout.
+- The oncoming global vehicle turns right at the junction.
+
+### 5. Risky and Unexpected Scenarios
+- Global vehicle running the red traffic light.
+- Global vehicle swerving toward ego vehicle.
+- Global vehicle backing up into ego vehicle.
+- Global vehicle cutting in front of the ego vehicle.
+
+### 6. Environmental Challenges
+- Drive through road environments with obstructed views.
+- Navigate on roads without lane lines.
+- Respond to unanticipated weather and lighting conditions.
 
 
 

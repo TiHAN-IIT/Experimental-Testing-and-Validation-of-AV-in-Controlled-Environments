@@ -58,10 +58,9 @@
 7. **Scenario 8:** Ego vehicle approaching a vehicle.  
 8. **Scenario 10:** Ego vehicle approaching an oncoming vehicle.  
 9. **Scenario 13:** Global vehicle swerving towards ego vehicle.  
-10. **Scenario 17:** The oncoming global vehicle turns right at the junction.
-11. **Scenario 18:**   
-12. **Scenario 20:** Global vehicle cuts in front of the ego vehicle.  
-13. **Scenario 21:** Global vehicle backing up into ego vehicle.  
+10. **Scenario 17:** The oncoming global vehicle turns right at the junction.  
+11. **Scenario 20:** Global vehicle cuts in front of the ego vehicle.  
+12. **Scenario 21:** Global vehicle backing up into ego vehicle.  
 
 
 

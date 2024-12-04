@@ -27,10 +27,9 @@
 2. **Scenario 23:** Ego vehicle to pedestrian in the path.  
 3. **Scenario 24:** Ego vehicle to pedestrian turning.  
 4. **Scenario 25:** Pedestrian crossing at zebra crossing with no traffic lights.  
-5. **Scenario 27:** Pedestrian crossing from behind an obstruction.  
-
----
-
+5. **Scenario 27:** Pedestrian crossing from behind an obstruction.
+6. **Scenario :** Pedestrians walking along the road
+   
 ## **5. Bicyclist Interaction Scenarios**
 1. **Scenario 28:** Ego vehicle with bicyclist crossing.  
 2. **Scenario 29:** Ego vehicle with bicyclist in the same lane.  
@@ -59,9 +58,10 @@
 7. **Scenario 8:** Ego vehicle approaching a vehicle.  
 8. **Scenario 10:** Ego vehicle approaching an oncoming vehicle.  
 9. **Scenario 13:** Global vehicle swerving towards ego vehicle.  
-10. **Scenario 17:** The oncoming global vehicle turns right at the junction.  
-11. **Scenario 20:** Global vehicle cuts in front of the ego vehicle.  
-12. **Scenario 21:** Global vehicle backing up into ego vehicle.  
+10. **Scenario 17:** The oncoming global vehicle turns right at the junction.
+11. **Scenario 18:**   
+12. **Scenario 20:** Global vehicle cuts in front of the ego vehicle.  
+13. **Scenario 21:** Global vehicle backing up into ego vehicle.  
 
 
 

@@ -28,7 +28,7 @@
 3. **Scenario 24:** Ego vehicle to pedestrian turning.  
 4. **Scenario 25:** Pedestrian crossing at zebra crossing with no traffic lights.  
 5. **Scenario 27:** Pedestrian crossing from behind an obstruction.
-6. **Scenario :** Pedestrians walking along the road
+6. **Scenario 16 :** Pedestrians walking along the road
    
 ## **5. Bicyclist Interaction Scenarios**
 1. **Scenario 28:** Ego vehicle with bicyclist crossing.  

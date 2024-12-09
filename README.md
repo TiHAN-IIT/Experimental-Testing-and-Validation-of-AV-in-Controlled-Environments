@@ -52,7 +52,7 @@
 1. **Scenario 1:** Ego vehicle changing lane with the global vehicle behind.
 [Watch the demo video](https://tihaniith-my.sharepoint.com/:v:/g/personal/tiand_tihaniith_onmicrosoft_com/EZkMiHJJffFNjlpgbG7-zIYBds_se_LaxKlE2ughKoTXLQ?e=JcggpX)
 
-2. **Scenario 2:** Ego vehicle driving straight. 
+2. **Scenario 2:** Ego vehicle driving straight. [Watch the demo video](https://tihaniith-my.sharepoint.com/:v:/g/personal/tiand_tihaniith_onmicrosoft_com/EeJqvEtXo0xLoTdGP0Zb_sgBQBmSKlL7KResxNREtyC8aA?e=H0EgHz) 
 3. **Scenario 3:** Maneuvering on the bend.  
 4. **Scenario 4:** Ego vehicle turning.  
 5. **Scenario 6:** Ego vehicle turns right with the oncoming global vehicle at the junction.  

@@ -50,8 +50,6 @@
 
 ## **8. General Vehicle Interaction Scenarios**
 1. **Scenario 1:** Ego vehicle changing lane with the global vehicle behind.
-[Watch the demo video](https://tihaniith-my.sharepoint.com/:v:/g/personal/tiand_tihaniith_onmicrosoft_com/EZkMiHJJffFNjlpgbG7-zIYBds_se_LaxKlE2ughKoTXLQ?e=JcggpX)
-
 2. **Scenario 2:** Ego vehicle driving straight. [Watch the demo video](https://tihaniith-my.sharepoint.com/:v:/g/personal/tiand_tihaniith_onmicrosoft_com/EeJqvEtXo0xLoTdGP0Zb_sgBQBmSKlL7KResxNREtyC8aA?e=H0EgHz) 
 3. **Scenario 3:** Maneuvering on the bend. [Watch the demo video](https://tihaniith-my.sharepoint.com/:v:/g/personal/tiand_tihaniith_onmicrosoft_com/EdmoQJMEjwpCodCzdszY36cBjq3Y6ZHRE86qXhk2E6kOVQ?e=4FJqz1) 
 4. **Scenario 4:** Ego vehicle turning. [Watch the demo video](https://tihaniith-my.sharepoint.com/:v:/g/personal/tiand_tihaniith_onmicrosoft_com/Eb-oGowiNrxCqFWmHuihDW0BetwZ0pVgbxNvutW4l9WF_g?e=Q9zQYQ)
